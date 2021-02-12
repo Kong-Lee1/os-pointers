@@ -28,11 +28,6 @@ int main(int argc, char **argv)
     Student *student;
     double average;
 
-    //student->id = 123;
-    //memcpy(student->f_name, "peter",5);
-
-    //std::cout << student->id;
-    //std::cout << student->f_name;
 
     string errorMessage;
     string IDMessage;
